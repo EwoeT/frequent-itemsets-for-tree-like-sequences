@@ -8,7 +8,7 @@ from ete3 import Tree
 import time
 
 #Enter file path
-dataset = '/home/ewoe/Documents/data mining/project/Dataset/dataset'
+dataset = 'file path'
 #Enter minimum support count
 min_sup_count = 10
 

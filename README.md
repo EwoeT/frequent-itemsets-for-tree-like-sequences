@@ -1,4 +1,5 @@
 # frequent-itemsets-for-tree-like-sequences
 An algorithm to mine sequence patterns of itemsets of complex objects in tree-like manner.</br>
 input in newick format</br>
+view report for more details</br>
 [report](https://drive.google.com/open?id=1IHBxcFzCabrtLCGJ-RRAYznbr9z7mbgr)

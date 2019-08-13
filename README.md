@@ -3,7 +3,7 @@ An algorithm to mine sequence patterns of itemsets of complex objects in tree-li
 input in newick format</br>
 view report for more details</br>
 
-in this project we seek to focus on data inputs that
+This project deals with data inputs that
 are in tree-like sequences and the goal is to identify frequent
 itemsets of sequential patterns that are present in the data.
 A typical data input of this form consists of a several trees; a
